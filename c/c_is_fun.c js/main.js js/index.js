@@ -1,0 +1,7 @@
+c/c_is_fun.c
+js/main.js
+js/index.js
+#!/bin/bash 
+"ALX"#!/bin/bash 
+echo "School"
+
