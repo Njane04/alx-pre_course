@@ -1,3 +1,5 @@
 sh: 1: wq: not found
 #!/bin/bash
  echo "ALX"
+#!/bin/bash
+ echo "ALX School"
